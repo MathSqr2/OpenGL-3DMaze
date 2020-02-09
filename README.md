@@ -38,8 +38,8 @@ map = [
 
 ## Some images
 
-![alt text](https://imgur.com/DgIBt9W "Mid")
-![alt text](https://imgur.com/nkne9mM "End wall")
+![alt text](https://i.imgur.com/DgIBt9W.png "Mid")
+![alt text](https://i.imgur.com/nkne9mM.png "End wall")
 
 ## Authors
 
