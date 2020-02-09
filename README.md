@@ -10,7 +10,7 @@ You need OpenGL to work on your browser.
 
 ## Goals achieved
 
-..* The deployment of the maze is done with a maze representing Floor(0), Walls (1) and End Wall (2).
+**1.**   The deployment of the maze is done with a maze representing Floor(0), Walls (1) and End Wall (2).
 
 '''
 map = [
@@ -32,13 +32,14 @@ map = [
 ];
 '''
 
-..* Colisions are somewhat good but sometimes players get in walls for a bit but nothing worrying.
+**2.**   Colisions are somewhat good but sometimes players get in walls for a bit but nothing worrying.
 
-..* There's music to keep the players entertained
+**3.**   There's music to keep the players entertained
 
 ## Some images
 
 ## Authors
 
 **Afonso Guimarães** -- afonso.guima@ua.pt
+
 **Vasco Cardoso** -- vasco.cardoso16@ua.pt
