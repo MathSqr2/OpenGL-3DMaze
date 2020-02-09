@@ -1,8 +1,8 @@
-# 3D Maze buit in OpenGL
+# 3D Maze built with OpenGL
 
 ![alt text](https://i.imgur.com/9lNRHi6.png "1")
 
-This is a simple 3D Maze built in OpenGl using resources provided on the MIECT Computer Graphics course. Its based on basic blocks that, through some modeling get to represent the maze.
+This is a simple 3D Maze built with OpenGl using resources provided on the **MIECT** - **Computer Graphics** course. Its based on basic blocks that, through some modeling, get to represent the maze, its walls, floor and end.
 
 ## Run
 
