@@ -12,7 +12,7 @@ You need OpenGL to work on your browser.
 
 **1.**   The deployment of the maze is done with a maze representing Floor(0), Walls (1) and End Wall (2).
 
-'''
+```
 map = [
     [1,1,1,1,1,1,1,1,1,1,1,2,1],
     [1,0,0,0,1,1,0,0,0,0,1,0,1],
@@ -30,7 +30,7 @@ map = [
     [1,0,0,0,0,0,0,0,0,0,0,0,1],
     [1,1,1,1,1,1,1,1,1,1,1,1,1],
 ];
-'''
+```
 
 **2.**   Colisions are somewhat good but sometimes players get in walls for a bit but nothing worrying.
 
