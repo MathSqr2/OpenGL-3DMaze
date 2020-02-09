@@ -43,6 +43,6 @@ map = [
 
 ## Authors
 
-**Afonso Guimarães** -- afonso.guima@ua.pt
+* **Afonso Guimarães** [afonso.guima@ua.pt]
 
-**Vasco Cardoso** -- vasco.cardoso16@ua.pt
+* **Vasco Cardoso** [vasco.cardoso16@ua.pt]
