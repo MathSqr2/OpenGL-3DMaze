@@ -38,6 +38,9 @@ map = [
 
 ## Some images
 
+![alt text](https://imgur.com/DgIBt9W "Mid")
+![alt text](https://imgur.com/nkne9mM "End wall")
+
 ## Authors
 
 **Afonso Guimarães** -- afonso.guima@ua.pt
